@@ -1,2 +1,0 @@
-# softmedistekler
-softmed istekler
